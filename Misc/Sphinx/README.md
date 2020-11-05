@@ -1,5 +1,12 @@
 ## Sphinx
 
+### Challenge Description
+
+I gave the flag to a friend of mine to protect it, she likes riddles and apparently has a bad temper.  
+Go say hi: nc sphinx.razictf.ir 1379  
+
+### Writeup
+
 You are given a server address in this challenge. 
 ```
 nc sphinx.razictf.ir 1379
