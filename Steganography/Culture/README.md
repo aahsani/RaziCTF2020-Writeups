@@ -1,5 +1,9 @@
 ## Culture
 
+### Challenge Description  
+This challenge isn't significant!!!
+
+### Writeup  
 In this challenge you have an image. Use `zsteg` to extract flag: `zsteg Culture.png`  
 Flag:  
 ```
